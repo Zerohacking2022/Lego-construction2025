@@ -11,7 +11,7 @@
 
 ```git clone https://github.com/zerohacking2022/Lego-construction2025```
 
-```cd banner-generator2025```
+```cd Lego-construction2025```
 
 ```chmod +x *```
 
