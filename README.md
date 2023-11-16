@@ -9,7 +9,7 @@
 
 ```apt install python2```
 
-```git clone https://github.com/Lego-construction2025```
+```git clone https://github.com/zerohacking2022/Lego-construction2025```
 
 ```cd banner-generator2025```
 
