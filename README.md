@@ -9,7 +9,7 @@
 
 ```apt install python2```
 
-```git clone https://github.com//banner-generator2025```
+```git clone https://github.com//Lego-construction2025```
 
 ```cd banner-generator2025```
 
@@ -22,7 +22,7 @@
 
 ### Or, Use Single Command
 ```
-apt install python2 && git clone https://github.com/zerohacking2022/banner-generator2025 && cd banner-generator2025 && bash requirements.sh && python2 generator.py
+apt install python2 && git clone https://github.com/zerohacking2022/Lego-construction2025 && cd banner-generator2025 && bash requirements.sh && python2 generator.py
 ```
 
 ### Features:
